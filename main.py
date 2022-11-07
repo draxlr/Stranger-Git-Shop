@@ -1,1 +1,1 @@
-print(“Hello Username :D”)
+print(“Hello Stranger :D”)
